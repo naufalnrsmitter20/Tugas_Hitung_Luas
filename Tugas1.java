@@ -50,6 +50,7 @@ public class Tugas1 {
 
         double VolumeKerucut =  Phiphi * JariJariKerucut * TinggiKerucut * 1/3;
         System.out.println("Volume Kerucut Adalah : " + VolumeKerucut); 
+        
     }
 }
 
